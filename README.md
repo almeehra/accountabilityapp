@@ -1,3 +1,5 @@
+This is an Accountability App which is a smart contract-powered commitment app where users lock funds and can only withdraw them by completing predefined tasks. It ensures self-discipline, goal tracking, and productivity by turning financial stakes into motivation—bridging commitment and execution with Web3 technology. 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
